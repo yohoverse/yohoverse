@@ -1,11 +1,15 @@
-## Intro
-Hello, I'm zero (zerosky)!
-- Begginer to programming which I'm starting with: <br>
+<h2>Intro</h2>
+<b>Hello, I'm zero (zerosky)!</b>
+<br>
+<br>
+<b>Begginer to programming</b> which I'm starting with: <br>
   • Python (Learning right now)
-- Artist 🎨
-----------------------------------
-## Interests
-I love rhythm games like Arcaea, PJSK. Other games like roblox, crk (Cookie Run: Kingdom), Identity V, Rolling Sky.
+<br>
+<br>
+<b>Artist 🎨</b> I love to draw! 
+
+<h2>Interests</h2>
+I love rhythm games like Arcaea, PJSK. Other games as well like roblox, crk (Cookie Run: Kingdom), Identity V, Rolling Sky.
 
 
 
