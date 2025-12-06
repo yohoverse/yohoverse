@@ -1,5 +1,5 @@
 <h2>Intro</h2>
-<b>Hello, I'm zero (zerosky)! From Europe! 🇪🇺</b>
+<b>Hello, I'm zero (zerosky) From Europe! 🇪🇺</b>
 <br>
 <br>
 <b>Begginer to programming</b> which I'm starting with: <br>
