@@ -1,6 +1,6 @@
 ## Intro
 Hello, I'm zero (zerosky)!
-- Begginer to programming which I'm starting with: 
+- Begginer to programming which I'm starting with: <br>
   • Python (Learning right now)
 - Artist 🎨
 ----------------------------------
