@@ -1,5 +1,5 @@
 <h2>Intro</h2>
-<b>Hello, I'm zero (zerosky) From Europe! 🇪🇺</b>
+<b>Hello, I'm zerosky From Europe! 🇪🇺</b>
 <br>
 <br>
 <b>Begginer to programming</b> which I'm starting with: <br>
@@ -9,7 +9,8 @@
 <b>Artist 🎨</b> I love to draw! 
 
 <h2>Interests</h2>
-I love rhythm games like Arcaea, PJSK. Other games as well like roblox, crk (Cookie Run: Kingdom), Identity V, Rolling Sky.
+I love rhythm games like Arcaea, PJSK.
+PC stuff, programming(trying lock in...)
 
 
 
