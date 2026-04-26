@@ -1,5 +1,5 @@
 <h2>Intro</h2>
-<b>Hello, I'm zerosky From Europe! 🇪🇺</b>
+<b>Hello, I'm yoho From Europe! 🇪🇺</b>
 <br>
 <br>
 <b>Begginer to programming</b> which I'm starting with: <br>
@@ -19,7 +19,8 @@ PC stuff, programming(trying lock in...)
 
 
 <!--
-**xterzero/xterzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**x
+yohoverse/yohoverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
